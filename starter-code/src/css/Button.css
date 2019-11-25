@@ -1,0 +1,10 @@
+.Button {
+    padding: 30px;
+    width: 160px;
+    font-size: 25px;
+    border-radius: 6px;
+    margin-top: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

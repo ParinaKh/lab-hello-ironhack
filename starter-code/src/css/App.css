@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Title {
+    font-size: 90px;
+    font-weight: bold;
+    color: white;
+    padding-top: 100px;
+    width: 40vw;
+    margin: 0;
+}
+
+.Main-text {
+    font-size: 35px;
+    color: white;
+    width: 25vw;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.App {
+
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+.Background {
+    background-color: #162a41;
+    height: 800px;
+}
